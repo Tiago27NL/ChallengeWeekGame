@@ -267,3 +267,4 @@ while True:
         show_game_over_screen()
         pygame.quit()
         exit()
+        
